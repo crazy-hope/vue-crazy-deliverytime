@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="CheckFilled" unicode="&#58938;" d="M512 844.8C258.048 844.8 51.2 637.952 51.2 384s206.848-460.8 460.8-460.8 460.8 206.848 460.8 460.8S765.952 844.8 512 844.8z m239.616-321.536l-307.2-307.2c-4.096-4.096-9.216-6.144-14.336-6.144s-10.24 2.048-14.336 6.144l-153.6 153.6c-8.192 8.192-8.192 20.48 0 28.672s20.48 8.192 28.672 0L430.08 259.072l292.864 292.864c8.192 8.192 20.48 8.192 28.672 0 8.192-8.192 8.192-20.48 0-28.672z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
