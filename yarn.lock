@@ -8312,15 +8312,16 @@ vm-browserify@^1.0.1:
   resolved "https://registry.npm.taobao.org/vm-browserify/download/vm-browserify-1.1.2.tgz?cache=0&sync_timestamp=1572870776965&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvm-browserify%2Fdownload%2Fvm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha1-eGQcSIuObKkadfUR56OzKobl3aA=
 
-vue-crazy-deliverytime@^0.1.15:
-  version "0.1.15"
-  resolved "https://registry.yarnpkg.com/vue-crazy-deliverytime/-/vue-crazy-deliverytime-0.1.15.tgz#062ef3884777758cd2cf37dd8c9ed000d9ad78f9"
-  integrity sha512-1NIP8gnRMznQRm4Z9ZqwIjyx/I5mKyhLk61e8Kb7gWt5d+AlDdeAJaTzG1pgRErHS7TXwG7tljUnypa+o+9U/A==
+vue-crazy-deliverytime@^0.1.3:
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/vue-crazy-deliverytime/-/vue-crazy-deliverytime-0.1.3.tgz#6b87d9aa5718d3b11ab4c3f40b0694c9eaf66ff5"
+  integrity sha512-c4BFppkeXPovL2K9BNfJq3Ux3kKb5Sb+vuJm4V0UJ1P9o2XAiECCdDpR4+kbkVzl0lPJ/8lGE9/5KHTjfyVdiA==
   dependencies:
     core-js "^3.6.4"
     node-sass "^4.13.1"
     sass-loader "^8.0.2"
     vue "^2.6.11"
+    vue-crazy-deliverytime "^0.1.3"
 
 vue-eslint-parser@^7.0.0:
   version "7.0.0"

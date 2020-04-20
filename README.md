@@ -1,6 +1,6 @@
 # vue-crazy-deliverytime
 
-![avatar](./screenimg/deliverytime.png)
+![screenShot](https://github.com/crazy-hope/vue-crazy-deliverytime/blob/master/screenshot/deliverytime.png)
 
 ### 安装 `vue-crazy-deliverytime`
 ``` shell
